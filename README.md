@@ -5,7 +5,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: crdepa@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Action figure collector
 
 <div align="center">
   <a href="https://github.com/crdepa">
