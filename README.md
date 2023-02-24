@@ -22,7 +22,7 @@
   <img align="center" alt="crdepa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="crdepa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="crdepa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="crdepa-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/8717383?v=4?width=676&height=676">
+  <img align="right" alt="crdepa-pic" height="150" style="border-radius:50px;" src="https://mrbytesolutions.com/img/hip-hop-graffiti.jpg">
 </div>
   
   ##
