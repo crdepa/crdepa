@@ -1,7 +1,6 @@
 ## Hi there, I'm Cristiano de Paula 👋
 
-- 🔭 I’m currently working on Python/Django
-- 🌱 I’m currently learning React with Redux
+- 🔭 My currently tools are: Python/Django, JS/JQuery/React, MongoDB, Docker
 - 💬 Ask me about ...
 - 📫 How to reach me: crdepa@gmail.com
 - 😄 Pronouns: he/him
