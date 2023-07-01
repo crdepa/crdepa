@@ -6,12 +6,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Action figure collector
 
+<!--
 <div align="center">
   <a href="https://github.com/crdepa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crdepa&show_icons=true&theme=dracula&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crdepa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="center" alt="crdepa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python" alt="python">
   <img align="center" alt="crdepa-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django" alt="django">
